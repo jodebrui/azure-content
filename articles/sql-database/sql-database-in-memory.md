@@ -78,7 +78,7 @@ Preview:
 Considerations while the In-Memory features are in Preview are described [later in this topic](#preview_considerations_for_in_memory).
 
 
-> [AZURE.NOTE] These in-Preview features are available only for [*Premium*](sql-database-service-tiers.md) Azure SQL databases, not for databases on the Standard or Basic service tier.
+> [AZURE.NOTE] These preview features are available only for Premium databases not in elastic pools, and not available for any Basic or Standard databases.  Support for Premium databases in elastic pools is coming soon.
 
 
 
